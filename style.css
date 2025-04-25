@@ -10,7 +10,7 @@ body {
     background: linear-gradient(135deg, #74ebd5, #ACB6E5); /* gradient background */
     font-family: 'Segoe UI', sans-serif;
     margin-bottom: 250px;
-    margin-left: 300px;
+    margin-left: 700px;
 }
 .calculator {
     background: #ffffffcc; /* semi-transparent white */
