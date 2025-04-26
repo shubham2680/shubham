@@ -7,8 +7,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(135deg, #74ebd5, #ACB6E5); /* gradient background */
+    background: bisque; /* gradient background */
     font-family: 'Segoe UI', sans-serif;
+    margin-left: 300px;
 }
 .calculator {
     background: #ffffffcc; /* semi-transparent white */
@@ -71,5 +72,9 @@ button.operator {
     background-color: #0056b3;
     transform: scale(1.05);
 } 
-
+.deletelast  {
+  background-color: #ACB6E5;
+  color: white;
+  grid-column: span 2;
+}
   
